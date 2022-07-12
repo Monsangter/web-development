@@ -1,0 +1,140 @@
+Disruptive
+
+지장을 주는.
+from dis- "apart" (see dis-) + rumpere "to break," from PIE root *runp- "to break"
+
+truncating
+
+아래나 위를 잘라서 길이를 줄이다.
+
+of truncare "to maim, mutilate, cut off,
+
+glyph 상형 문자
+
+ from Greek glyphē "a carving," from glyphein "to hollow out, cut out with a knife, engrave, carve,
+
+diacritical 발음 구별의.
+
+dia "between" (see dia-) krinein "to separate, decide, judge
+
+Idempotent 
+
+Definition of idempotent
+(Entry 1 of 2) : relating to or being a mathematical quantity which when applied to itself under a given binary operation (such as multiplication) equals itself also : relating to or being an operation under which a mathematical quantity is idempotent. idempotent. noun.
+
+멱등성. 연산을 여러번 적용하더ㅏ도 결과가 달라지지 않음.
+
+Identical. 동등함.
+
+Shorthand
+
+속기
+
+Concatenation 연속.
+
+String Concatenation
+The + operator can be used between strings to combine them. This is called concatenation:
+
+Example
+String firstName = "John";
+String lastName = "Doe";
+System.out.println(firstName + " " + lastName);
+Try it Yourself »
+
+Note that we have added an empty text (" ") to create a space between firstName and lastName on print.
+
+You can also use the concat() method to concatenate two strings:
+
+inclusive
+
+포괄적인.포함된. We are offering free holidays for children aged two to eleven inclusive. ~부터~ 까지.
+
+exclusive 독점적인, 전용의, 배타적인, 특권층의
+
+square root 제곱근, cube root
+
+Operand 피연산 함수. 피연산자!
+
+ternary 삼진의, 3변수의!
+
+iteration 계산, 컴퓨터 처리절차의 반복. 컴퓨터 소프트웨어의 신판.
+
+instance 사례, 경우
+
+Of the remaining 나 머지의.
+
+Fraction. 부분, 일부
+
+Account for. 차지하다~
+
+Shifted from 이동하다~
+
+Private sector 민간
+
+Claiming credit 공을 돌리다.
+
+Congressmen 국회의원. (특히하원_
+
+Senator 상원의원.
+
+Consolidate 굳히다. 강화하다. 통합하다.
+
+Act 법률.
+
+Endorse 지지하다. 수표에 이름쓰다
+
+Corporation 법인, 조합
+
+Mind-boggling 상상도 안되는, 놀라운
+
+Unlicensed 무허가의
+
+Spectrum 음향등의 범위. 주파수
+
+Densest 가장 밀도높은.
+
+US treasury 재무부
+
+In revenue 수익
+
+Suite 세트
+
+Even better 더 좋은 것은.
+
+Hassle 귀찮은 일. 따지기.
+
+The barrier to entry  진입 장벽.
+
+Discarding 버리다.
+
+ counterintuitive 반 직관적인.
+
+Director 감독, 책임자.
+
+De facto. (법으로는 받아들여지지 않더라도) 실직적인.
+
+family of encryption technologies 암호화 기술 제품군.
+
+Decipher 판독하다 해독하다.
+
+Under the hood 실제로(내부적으로 작동되는 상태를 보여줄떄 주로 사용함)
+
+Malicious 악의 있는 (malevolent, spiteful)
+
+Administer 운영하다.
+
+In turn 차례차례 이어서 결국
+
+Impersonate 가장하다, 흉내내다.
+
+Compromise 타협하다. Vt 위태롭게하다.
+
+To beef up 강화하다.
+
+US Commerce Department 미국 상무부
+
+Delegate 대표, 대표자. 위임하다, (대표를) 뽑다
+
+White paper 백서( 보고서라는 뜻 ㅎ)
+
+a list of resources 참고문헌, 출처)
