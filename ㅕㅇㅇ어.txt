@@ -138,3 +138,69 @@ Delegate 대표, 대표자. 위임하다, (대표를) 뽑다
 White paper 백서( 보고서라는 뜻 ㅎ)
 
 a list of resources 참고문헌, 출처)
+
+dial in  전화 선을 통해 멀리 떨어진 컴퓨터 시스템이나 서비스에 접속하는 것.
+
+Handy 편리한.
+
+After ~ (에서 따오다.)
+
+A flavor of unix 유닉스 계열
+
+Prompt : NOUN  computers a message that appears on a computer screen asking the user to do something or to provide information
+
+Echo 반복, 공명. 따라하다. 공명하다( 반향을 보이다)
+
+An example should serve here 예를들면 다음과 같다.
+
+Dialed into 전화를 걸다.
+
+Dedicated 전용의.
+
+be refered to as ~라고 불리다.
+
+Billing 청구
+
+Traverse 가로지르다 횡단하다
+
+Broadcast 방송하다 널리알리다. Broad~ cast~~~
+
+Name resolution 이름 확인
+
+Resolve 확인하다.
+
+Some of the ~의 일부
+
+
+"Dial-up Internet access" is a form of Internet access that uses the facilities of the public switched telephone network (PSTN) to establish a connection to an Internet service provider (ISP) by dialing a telephone number on a conventional telephone line.
+
+Configuration 환경 설정.
+
+Hint
+힌트, 넌짓이 받은 암시.
+
+Surmise
+추측하다. 추정하다.(= conjecture)
+
+retrieves 검색하다 회수하다 되찾다
+
+Applet 다른 프로그램에서 사양되는 프로그램. 애플릿.
+
+Listen 수신하다.
+
+Tránsaction 거래, 매매, 처리과정
+
+Denote 의미하다 나타내다.
+
+Segment 부분,조각. 분할하다, 나누다.
+
+wrap something up 마무리 짓다.
+
+Inception 시작, 개시(단체, 기관등의)
+
+stride미국∙영국[straɪd]
+1.성큼성큼 걷다2.(성큼성큼 걷는) 걸음[발(걸음)] (=pace)3.걸음걸이; 달리는 모습, 달음박질
+
+Full stride 전속력으로
+
+Bibliography 참고문헌
