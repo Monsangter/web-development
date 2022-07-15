@@ -395,3 +395,65 @@ Keep up ~하지 못하게하다
 keep up with 유행하다 , 다른사람과 대화하거나 쓰는 것을 유지하다.
 	시류[유행]를 따르다; …에 밝다, 정통하다; …에 뒤지지 않다, …와 엇비슷하다.
 따라가다, 쫓아가다. 따라잡다.
+
+fuzzy[ˈfʌzi]
+(Comparative : fuzzier)
+ADJ.
+1.솜털이 보송보송한 (=downy)
+2.곱슬곱슬한
+3.(모습·소리가) 흐릿한[어렴풋한] (=blurred)
+a fuzzy image
+
+Coincidentally 우연하게도, 공교롭게도.
+
+Intersect 교차하다, 가로지르다
+
+문자 인코딩 (Character Encoding)
+
+사용자가 입력한 문자나 기호들을 컴퓨터가 이용할 수 있는 신호로 만드는 것.
+
+Refer to as ~라고 불리다.
+
+query[ˈkwɪri]
+(3rd person singular present : queries)
+Noun
+1.문의, 의문
+Our assistants will be happy to answer your queries.
+문의[의문] 사항이 있으시면 저희 직원들이 기꺼이 답해 드리겠습니다.
+2.물음표(아직 완료확정되지 않았음을 나타냄)
+Put a query against Jack’s name—I’m not sure if he’s coming.
+잭의 이름에는 물음표를 달아 놔. 그가 올지 확실히 모르겠어.
+Verb
+1.문의[질의]하다, 의문을 제기하다
+We queried the bill as it seemed far too high.
+청구액이 너무 많은 것 같아서 우리가 그 계산서에 대해 문의를 했다.
+2.묻다, 질문하다
+‘Who will be leading the team?’ queried Simon.
+“그 팀은 누가 이끌게 되나요?” 사이먼이 물었다.
+
+what browser the client is using
+클라이언트가 어떤 브라우저를 사용하는지.
+
+Communicate 전달하다
+
+Based on ~를 따라
+
+Valuable 중요한
+
+respectively. 각각
+
+Persistent 영구적인
+
+Overview 개요
+
+Fetch 가지고 오다.
+
+Reconstructed 재구성되다.
+
+ (as opposed to a stream of data) 데이터 스트림이 아닌.
+
+Like with ~처럼
+
+on behalf of it).  대신하여
+
+Entity 개체.
