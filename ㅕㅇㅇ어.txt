@@ -457,3 +457,89 @@ Like with ~처럼
 on behalf of it).  대신하여
 
 Entity 개체.
+
+Most of the time 대부분의 경우에
+
+Populate 채우다.
+
+virtually 오스포드 중요어휘  어휘등급  
+1.
+ADVERB  사실상, 거의
+2.
+ADVERB  컴퓨터 (컴퓨터를 이용하여) 가상으로
+
+ interrogating other computer
+질문하다 심문하다 [컴퓨터에서]정보를 얻다.
+
+Relay 전달하다 중계하다
+
+Forwarding on the request 전달하다.
+
+In which case 이경우엔
+
+Parental control 보호자 통제
+
+authentication 인증
+
+Semantic 의미.
+프로그래밍에서 시맨틱(Semantic)이란 코드 조각의 의미를 나타낸다.
+이 코드는 화면에서 어떻게 보여질까?가 아닌 이 코드의 의미, 즉 역할은 무엇이며 기능은 무엇인가를 나타내는 것이다.
+
+무상태(Stateless) - 클라이언트와 서버 관계에서 서버가 클라이언트의 상태를 보존하지 않음을 의미한다. 장점 : 서버의 확장성이 높기 때문에 대량의 트래픽 발생 시에도 대처를 수월하게 할 수 있다. 
+
+Carry out 수행되는
+
+Stateful 상태 유지
+
+Reliable 신뢰할 수 있는.
+
+mitigate[ˈmɪtɪɡeɪt]
+(3rd person singular present : mitigates)
+Verb
+1.완화[경감]시키다 (=alleviate) 
+
+Implement 구현하다.
+
+Multiplex 다중화, 다세대, 복합상영관
+
+Ability 기능
+
+Instruct 지시하다 알려주다
+
+intermediate 중간의
+
+Supersede 대신하다, 대체하다
+
+ combined with the ability to add headers, 능력과 결합되어~
+
+Either, neither, both
+
+Coffee or tea? Both. 둘다. neither 둘다 별로. Either 둘다 좋아. Both 둘다 먹을래 
+
+either 상관 없어 둘중 하나만 가져와. 다른 해석. 아무거나. 선택지 앞에 온다. We can either watch a movie or eat lunch.
+
+how it came to be 어떻게 생겨낫는지.
+
+First things first 우선
+
+which was put forward in 1991. 1991년 제시되었다.
+
+alongside[ə│lɔːŋsaɪd] 
+1.…옆에, 나란히
+A police car pulled up alongside us.
+경찰차 한 대가 우리 옆으로 다가왔다.
+2.…와 함께, …와 동시에
+Traditional beliefs still flourish alongside a modern urban lifestyle
+
+impose[ɪmˈpoʊz]
+(3rd person singular present : imposes)
+Verb
+1.(새로운 법률·세금 등을) 도입[시행]하다
+A new tax was imposed on fuel.
+유류에 새로운 세금이 도입되었다.
+2.(힘들거나 불쾌한 것을) 부과하다[지우다]
+to impose limitations/restrictions/constraints on sth
+…에 한도/제한/한계를 두다
+3.(의견 등을) 강요하다
+She didn’t want to impose her values on her family.
+그녀는 자신의 가치관을 가족에게 강요하고 싶지 않았다.
