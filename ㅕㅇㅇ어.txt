@@ -597,3 +597,105 @@ Traditionally reared animals grow more slowly than those reared under intensive 
 
 문제·상황 등에 대해) 고심하다[다루다]
 Your essay does not address the real issues. 
+
+Shortcoming 단점.
+
+workarounds 제 2의 해결책
+
+humungous
+1.(=humongous) 거대한
+
+Shard (유리 금속등의)파편 sharding(파편화하다)
+
+Latency 응답시간
+
+gritty미국∙영국[ˈɡrɪti]
+1.모래가 든, 모래 같은2.투지 있는3.불쾌한 현실을 그대로 보여주는 (→nitty-gritty)
+
+nitty미국∙영국[níti]
+1.서캐투성이의
+
+Defacto 사실상의
+
+dep·re·cate
+Verb
+1.	타동사 격식 [VN] 
+(강력히) 반대[비난]하다
+
+By now 지금쯤이면
+
+parse[pɑːrs]
+1.(문장을 문법적으로) 분석하다
+
+페이로드(payload)는 전송되는 데이터를 의미합니다. 데이터를 전송할 때, 헤더와 메타데이터, 에러 체크 비트 등과 같은 다양한 요소들을 함께 보내어, 데이터 전송의 효율과 안정성을 높히게 됩니다. 이 때, 보내고자 하는 데이터 자체를 의미하는 것이 바로 페이로드입니다. 우리가 택배 배송을 보내고 받을 때, 택배 물건이 페이로드이고, 송장이나 박스, 뾱뾱이와 같은 완충재 등등은 부가적인 것이기 때문에 페이로드가 아닙니다.
+
+The essence of it is 그것의 본질은
+
+In place for ~에 적합한
+
+Subsequent 그 다음의, 차후의
+
+maintained 관리되는
+
+With that out of the way, 그것만 빼면
+
+ephem·eral
+1.	수명이 짧은2.	단명하는 ephemeral keys 사용뒤 삭제되는 키.
+
+Blatant 노골적인, 뻔한.
+
+And that about wraps it up. 그걸로 끝이야.
+
+Stay tuned 채널고정하세요
+
+Iterations 반복
+
+Ramp up 증가시키다, 늘리다.
+
+Availability 가용성
+
+are lacking in nuance, 미묘한 뉘앙스가 부족하다.
+
+To live up to ~에 부합하다.
+
+heap미국∙영국[hiːp]
+1.(아무렇게나 쌓아 놓은) 더미[무더기] (→scrap heap, slag heap)2.많음3.(아무렇게나) 쌓다4.(B에 A를) 쌓아올리다[수북이 담다]
+
+perpetuate[pərpetʃueɪt]
+1.영구화하다, 영속시키다
+
+herald[ˈherəld]
+(3rd person singular present : heralds)
+Verb
+1.(앞으로 있을 일을[의]) 예고하다[도래를 알리다]
+These talks could herald a new era of peace
+이들 회담은 새로운 평화 시대의 도래를 알리는 일이 될 수 있을 것이다.
+2.(좋은 일중요한 일을) 알리다[발표하다]
+The report is being heralded as a blueprint for the future of transport.
+그 보고서는 미래의 운송을 위한 청사진으로 알려지고 있다.
+
+bun·dling
+1.	약혼 중인 남녀가 옷을 입은 채 한 침대에서 자는 웨일스나 뉴잉글랜드의 옛 풍습2.	일괄 판매, 시스템 판매
+
+streamline미국∙영국[ˈstriːmlaɪn]
+1.유선형으로 하다2.(시스템·조직 등을) 간소화[능률화]하다
+
+Similarly 마찬가지로 
+
+tweak[twiːk]
+(3rd person singular present : tweaks)
+Verb
+1.(갑자기) 잡아당기다, 비틀다
+She tweaked his ear playfully.
+그녀가 장난스럽게 그의 귀를 잡아당겼다.
+2.(기계시스템 등을 약간) 수정[변경]하다
+I think you’ll have to tweak these figures a little before you show them to the boss.발음듣기
+내 생각엔 자네가 사장님께 보여드리기 전에 이 수치들을 좀 수정해야 할 것 같군.
+
+As such 이와 같이
+
+configuring 구성하는
+
+Deployment 배포
+
+involved in 관련된
