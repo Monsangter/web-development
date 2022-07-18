@@ -543,3 +543,57 @@ to impose limitations/restrictions/constraints on sth
 3.(의견 등을) 강요하다
 She didn’t want to impose her values on her family.
 그녀는 자신의 가치관을 가족에게 강요하고 싶지 않았다.
+
+Acknowledge 승인하다.
+It should be noted 유의해야한다.
+
+Dispatch 
+1.(특히 특별한 목적을 위해) 보내다[파견하다]
+Troops have been dispatched to the area.
+그 지역에 군대가 파견되었다.
+2.(편지소포메시지를) 보내다[발송하다]
+Goods are dispatched within 24 hours of your order reaching us.
+당신의 주문이 저희에게 들어오면 24시간 이내에 물품이 배송됩니다.
+
+implementations 구현
+
+Apart from ~외에도
+
+ i.e.는 라틴어 id est,의 약어이며, '즉', '다시 말하면  예, 즉 
+
+redundant[rɪˈdʌndənt]
+(부사형 : redundantly)
+ADJ.
+1.(일거리 부족으로) 정리 해고[감원 조치/실직]당한
+to be made redundant from your job
+직장에서 정리 해고당하다
+2.불필요한, 쓸모없는, 중복되는 
+The picture has too much redundant detail. 
+
+레이턴시(latency)는 자극과 반응 사이의 시간이며, 더 일반적인 관점에서는 관찰되는 시스템에서의 어떠한 물리적 변화에 대한 원인과 결과 간의 지연 시간이다.[1] 레이턴시는 물리적 상호작용이 추진할 수 있는, 물리적으로 제한된 속도의 결과라고 할 수 있다.
+
+Before hand 미리.
+
+in favor of ~를 위해
+
+ (more to it in a moment).  잠시후 더 자세히
+
+I am not going to dwell about  나는 자세히 설명하지는 않을 것이다.
+
+here is the link to original RFC for the overachievers.(초과달성자)
+
+intensive[ɪnˈtensɪv]
+(부사형 : intensively)
+ADJ.
+1.집중적인(짧은 시간에 많은 일·활동을 하는)
+an intensive language course
+집중 어학 코스
+2.철두철미한, 많은 주의를 기울여 하는
+His disappearance has been the subject of intensive investigation.
+그의 실종은 철두철미한 수사의 대상이 되어 왔다.
+3.집약적인 (→capital-intensive, labour-intensive)
+Traditionally reared animals grow more slowly than those reared under intensive farming conditions.
+전통적인 방식으로 기르는 가축은 집약적인 목축 환경에 있는 가축들보다 더 천천히 큰다.
+
+문제·상황 등에 대해) 고심하다[다루다]
+Your essay does not address the real issues. 
