@@ -709,3 +709,71 @@ fair[fer]
 5.(농축산물) 품평회
 
 Own 고유한
+
+Distant 멀리 떨어진
+
+Otherwise 그렇지 않았다면, 다르게말하자면, 반면에.
+
+Throughput 처리량, robustness 견고성.
+
+robustness Noun 1.억셈, 건장함.
+
+Assumption 가정
+
+1.	[명사 앞에만 씀] 
+(크기정도양을 강조하여) 순전한. ~만으로도
+The area is under threat from the sheer number of tourists using it.  
+그 지역은 순전히 그곳을 이용하는 관광객 수만으로도 위협을 받고 있다.
+
+2.	[명사 앞에만 씀] 
+(다른 것이 섞이지 않은) 순수한[순전한]
+The concert was sheer delight.  
+그 음악회는 기쁨 그 자체였다.
+
+creating something new but better from scratch 더 나으면서도 새로운 것을 스크래치단계부터 창조하는 것.
+
+hTTP/2 was adjusted in a few key areas 몇가지 중요 부분에서 조정되었다.
+
+To make it compatible with quic quic와 호환될 수 있게 만들도록
+
+tweak미국∙영국[twiːk]
+1.(갑자기) 잡아당기다, 비틀다2.(기계시스템 등을 약간) 수정[변경]하다3.잡아당기기, 비틀기4.(기계시스템 등에 대한 약간의) 수정[변경]
+
+This tweaked version 이 수정된 버전
+
+substantial[səbˈstænʃl]
+(동사 : substantiate)
+ADJ.
+1.(양·가치·중요성이) 상당한 (=considerable)
+substantial sums of money
+상당한 액수의 돈
+2.크고 튼튼한, 단단히 지은
+a substantial house
+크고 튼튼한 집
+
+As such 이와 같이
+
+take away  
+1.
+PHRASAL VERB  to remove (someone or something); to cause (someone or something) to go away, to no longer exist, to no longer be held, etc.
+2.
+PHRASAL VERB  to remember (something) for possible use in the future
+3.
+PHRASAL VERB  usually + from
+
+
+
+
+
+migration미국∙영국[maɪˈɡreɪʃn]
+1.(사람·철새·동물의 대규모) 이주[이동]2.(컴퓨터 시스템·프로그램의) 이송[이행(移行)]
+
+Bare bones 가장 기본적인.
+
+Employ 사용하다.
+
+Video conferencing 라이브 화상회의
+
+Up-front money 선약금. 
+
+Up-front delay 초기 지연
