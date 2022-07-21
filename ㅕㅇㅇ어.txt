@@ -777,3 +777,19 @@ Video conferencing 라이브 화상회의
 Up-front money 선약금. 
 
 Up-front delay 초기 지연
+
+Best practice 모범 사례
+
+Concrete feature 구체적 기능
+
+Boil down 요약된다.
+
+cryptographic 암호화.
+
+TLS-spectific tls별
+
+Handful 몇안되는 수~
+
+Explicit 명시적인
+
+Deem 여기다. Deemed 여겨지다.
