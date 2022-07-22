@@ -22,3 +22,5 @@ Src = https://web.dev/howbrowserswork/
 4. 브라우저의 주요 기능
 
 브라우저의 주요기능은 당신이 선택한 웹 자원을 보여주는 것이다, 서버에서 요청하고, 브라우저창을 통해 보여줌으로서. 자원은 보통 html문서이며 pdf, 이미지. 다른 콘텐츠 타입이 될 수도 있다. 리소스의 위치는 URI(uniform resource identifier)를 사용하는 사용자에 의해 구체화된다.
+
+ 브라우저가 html파일을 번역하고 보여주는 방식은 html과 css명세에서 잘 구체화 돼 있다. 이 명세는 w3c(World Wide Web consortium)기구에 의해 유지된다.
