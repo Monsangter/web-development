@@ -1,0 +1,6 @@
+How browsers work. - 현대 웹브라우저의 뒷면 Aug 5, 2011 Tali Garsiel, Paul Irish
+Src = https://web.dev/howbrowserswork/
+ 
+서문
+
+이 webkit과 gecko의 내부 작동에 대한 종합적 입문서는 이스라엘인 개발자인 탈리 가르시엘에 의해 수행된 연구들의 결과이다. 수년동안 그녀는 브라우저에 대한 모든 공개된 데이터
