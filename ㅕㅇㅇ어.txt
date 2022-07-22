@@ -793,3 +793,82 @@ Handful 몇안되는 수~
 Explicit 명시적인
 
 Deem 여기다. Deemed 여겨지다.
+
+trade-off 절충
+
+In a way, 어떤면에서는
+
+Elected to ~하기로 하다. 
+
+Ingrain 침투시키다.
+
+eavesdroppers  도청자
+
+Downsides 단점.
+
+met·rics 1.	메트릭스(업무 수행 결과를 보여주는 계량적 분석)2.	운율학
+
+Being pushed 추진되다.
+
+Real concern 진짜 걱정거리
+
+repercussion[│riːpərkʌʃn]
+1.(어떤 사건이 초래한, 보통 좋지 못한, 간접적인) 영향 (=consequence)
+
+blob[blɑːb]
+1.(작은) 방울, (작은) 색깔 부분, 덩어리
+
+ they are subdivided 세분화된다.
+
+piecemeal미국∙영국[ˈpiːsmiːl]
+1.(처음부터 세심히 계획된 것이 아니라 때에 따라) 조금씩 하는[되는], 단편적인
+
+This is achieved 달성된다.
+
+Fancy way of saying 멋진 표현이다.
+
+Internally 내부적으로
+
+ that’s not the case 그렇지 않다.
+
+Put differently 다르게 말하면
+
+Intimate 친한, 친밀한. 사적인, 은밀한
+
+Over ~를 통해
+
+Stream abstractions. 스트림 추상화
+
+because those are network-specific. 네트워크마다 다르니까요.
+
+Existing 기존의.
+
+Depending ~에 따라
+
+but typically in the order of months, not years.\\ 몇년이 아니라 몇달정도 걸린다.
+
+페이로드(영어: payload)는 사용에 있어서 전송되는 데이터를 뜻한다. 페이로드는 전송의 근본적인 목적이 되는 데이터의 일부분으로 그 데이터와 함께 전송되는 헤더와 메타데이터와 같은 데이터는 제외한다. 
+
+In-process action 프로세스중 작업.
+
+Present 존재하다.
+
+negotiated 넘다, 협상하다, 타결하다
+
+they choose themselves 그들이 직접 선택하는
+
+downtime미국∙영국[ˈdaʊntaɪm]
+1.(기계, 특히 컴퓨터가) 작동하지 않는 시간 (→uptime)2.한가한[휴식] 시간
+
+Whether to ~의 여부
+
+sensible미국∙영국[ˈsensəbl]
+1.분별[양식] 있는, 합리적인2.(멋있기보다는) 실용적인3.…을 의식하고[알고] 있는 (↔3번 뜻에 대해서는 insensible)
+
+On top of that 게다가
+
+ omnipresent 편재하는, 어디에나 있는
+
+Other than this 이외에도
+
+The two main changes besides encryption and framing 프레이밍과 암호와 이외의 두가지 주요 변경점.
