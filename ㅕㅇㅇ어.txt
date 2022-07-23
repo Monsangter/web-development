@@ -872,3 +872,71 @@ On top of that 게다가
 Other than this 이외에도
 
 The two main changes besides encryption and framing 프레이밍과 암호와 이외의 두가지 주요 변경점.
+
+근본적으로 (=essentially)
+Yes, that’s basically correct.
+네, 그것이 근본적으로는 옳습니다.
+
+go over something
+1.~을 점검[검토]하다2.거듭 살피다
+go over (with somebody)
+1.(생각·행동 등이) (~에게) 받아들여지다
+
+This comprehensive primer 포괄적 입문서.
+
+published data 공개된 데이터
+
+nothing much to do but regard the browser as a "black box" 브라우저를 블랙박스정도로 여기는 것 외에는 크게 할일이 없었다.
+
+peek미국∙영국[piːk]
+1.(재빨리) 훔쳐보다 (=peep)2.살짝[아주 조금] 보이다
+
+ take a peek 살짝 들여다보다.
+
+so we've cleaned it up and republished it here. 그래서 우리는 다시 정리해 여기 재공개했습니다.
+
+development best practices 개발 사례
+
+Conformed to 준수하다.
+
+Compatibility 양립가능성, 호환성.
+
+Web author 웹작성자.
+
+specification 사양
+
+marshal[ˈmɑːrʃl]
+1.(영국 육공군) 원수 (→air chief marshal, air marshal, air vice-marshal, field marshal)2.(특히 스포츠 행사의) 진행 요원 (=steward)3.(특정 목적을 위해 사람사물생각 등을) 모으다[결집시키다] (=muster)4.(많은 사람들을) 통제하다
+
+for network calls such as HTTP requests 네트워크 호출이나 http요청과 같은 경우,
+
+exposes 표시하다
+
+This is a persistence layer.  지속됨.
+
+인스턴스
+인스턴스 (instance)의 다른 뜻은 다음과 같다. 인스턴스는 일반적으로 실행 중인 임의의 프로세스, 클래스의 현재 생성된 오브젝트를 가리킨다.
+
+layout[ˈleɪaʊt]
+Noun
+1.(책·정원·건물 등의) 레이아웃[배치]
+the layout of streets
+도로 구획 배치
+
+
+This means giving each node the exact coordinates 각 노드에 정확한 좌표를 준다.
+
+Terminology 용어
+
+Lexical 어휘의
+
+Expressions 표현식
+
+The language syntax building blocks 언어 구문 구성 요소
+
+operation 연산
+
+Substring 하위 문자열
+
+the process of identifying the expression evolves, matching the other rules
+식을 식별하는 프로세스는 다른 규칙과 일치하도록 나아가지만
