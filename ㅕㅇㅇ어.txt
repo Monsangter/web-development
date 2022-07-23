@@ -940,3 +940,58 @@ Substring 하위 문자열
 
 the process of identifying the expression evolves, matching the other rules
 식을 식별하는 프로세스는 다른 규칙과 일치하도록 나아가지만
+
+2.	마크업(문서의 활자·조판 지정 표시)
+
+On the whole 전반적으로
+
+This seemingly small detail makes a world of a difference.
+겉보기에는 엄청나게 작은 디테일의 차이가 엄청나게 큰 차이를 만든다고 할 수 있다.
+
+ conventional 기존의
+
+The parsing process is reentrant.
+파싱프로세스는 재입력된다.
+
+reentrant미국∙영국[rì:éntrənt]
+1.다시 들어가는2.오목한, 안쪽으로 굽은3.다시 들어가는 것[사람], 안으로 향하고 있는 것[사람]4.요각
+
+state machine 상태기계
+
+Pre-loaded 미리 설치된, 선탑재의
+
+Most of the time 대부분의 경우
+
+coordinates 조정하다
+
+proprietary[prəpraɪəteri]
+1.등록[전매] 상표가 붙은2.소유주[자]의
+
+distributions 배포판
+
+Comprehensive 포괄적인
+
+Augment 강화하다 증강하다.
+
+Mundane 재미없는 일상적인
+
+Batch
+1.(일괄 처리를 위해) 함께 묶다
+
+peripheral[pəˈrɪfərəl]
+(부사형 : peripherally)
+ADJ.
+1.(중요하지 않은) 주변적인, 지엽적인
+peripheral information
+주변적인 정보
+2.말초의, 주변부의
+the peripheral nervous system
+말초 신경계
+Noun
+1.주변 장치
+monitors, printers and other peripherals
+모니터, 프린터, 그 외 주변 장치들
+
+On top of that 게다가
+
+Chilling 쉬다.

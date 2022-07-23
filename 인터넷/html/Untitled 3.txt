@@ -1,0 +1,69 @@
+Html responsive
+
+If the max-width property is set to 100%, the image will scale down if it has to, but never scale up to be larger than its original size:
+
+1HTML allows mixing uppercase and lowercase letters in element names.
+
+However, we recommend using lowercase element names, because:
+
+Mixing uppercase and lowercase names looks bad
+Developers normally use lowercase names
+Lowercase looks cleaner
+Lowercase is easier to write
+
+2Close All HTML Elements
+
+3Always Quote Attribute Values
+HTML allows attribute values without quotes.
+
+However, we recommend quoting attribute values, because:
+
+Developers normally quote attribute values
+Quoted values are easier to read
+You MUST use quotes if the value contains spaces
+
+4Spaces and Equal Signs
+HTML allows spaces around equal signs. But space-less is easier to read and groups entities better together.
+
+5Avoid Long Code Lines
+When using an HTML editor, it is NOT convenient to scroll right and left to read the HTML code.
+
+Try to avoid too long code lines.
+
+Do not add blank lines, spaces, or indentations without a reason.
+
+For readability, add blank lines to separate large or logical code blocks.
+
+For readability, add two spaces of indentation. Do not use the tab key.
+
+6Never Skip the <title> Element
+The <title> element is required in HTML.
+
+The contents of a page title is very important for search engine optimization (SEO)! The page title is used by search engine algorithms to decide the order when listing pages in search results.
+
+The <title> element:
+
+defines a title in the browser toolbar
+provides a title for the page when it is added to favorites
+displays a title for the page in search-engine results
+So, try to make the title as accurate and meaningful as possible: 
+
+7Omitting <html> and <body>?
+
+Omitting <body> can produce errors in older browsers.
+
+Omitting <html> and <body> can also crash DOM and XML software.
+
+8.Close Empty HTML Elements?
+
+<meta charset="utf-8" />
+
+If you expect XML/XHTML software to access your page, keep the closing slash (/), because it is required in XML and XHTML.
+
+9Add the lang Attribute
+You should always include the lang attribute inside the <html> tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
+
+10.Meta Data
+To ensure proper interpretation and correct search engine indexing, both the language and the character encoding <meta charset="charset"> should be defined as early as possible in an HTML document:
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">

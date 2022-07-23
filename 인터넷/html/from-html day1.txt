@@ -1,0 +1,83 @@
+이미지 태그
+
+<img src="w3school.jpg" alt="w3schools.com" width="104" height="142">
+
+소스속성
+절대주소. 퍼미션 없을시. 저작권법 위반 위험, 외부이미지기떄문에 수정불. 갑자기 없어지거나 바뀔 수 ㅇ
+상대주소, 
+슬래시 없을시 현주소 상대. Example: src="img_girl.jpg"
+잇으면 도메인 상대.Example: src="/images/img_girl.jpg".
+
+Alt.속성 대체텍트. 에러나 슬로커넥션시 스크린리더에 읽히고 잇을시
+
+a태그
+
+<a href="https://www.w3schools.com">
+
+태그나 속성에 ㅐ해 케이스 센시티브 하진 않지만. 소문자를 요구한다. 걍소문자쓰삼 특히 엑스에치템엘은 더 엄격.
+
+속성같은 경우는 스타트 태그에서 나온다. name="value"형식으로.
+
+스타일속성 폰트 컬러. 사이즈등 사용.
+<p style="color:red;">This is a red paragraph.</p>
+
+랭속성. 에치티엠엘 태그에서 웹사이트 사용 언어를 갈키며 서치엔진이나 브라우저 보조
+<!DOCTYPE html>
+<html lang="en">
+나라도 가리킬 수 잇음
+<html lang="en-US">
+
+타틀 속성 엘리먼트에 마우스 올리면 툴팁 표시댐.
+<p title="I'm a tooltip">this is a paragraph</p>
+
+만약 속성 밸류가 더불쿼트 포함시 싱그루커트 쓰삼 vice versa
+<p title='John "shotgun" Nelson'>
+<p title="John 'shotgun' Nelson">
+
+Chapter Summary
+All HTML elements can have attributes
+The href attribute of <a> specifies the URL of the page the link goes to
+The src attribute of <img> specifies the path to the image to be displayed
+The width and height attributes of <img> provide size information for images
+The alt attribute of <img> provides an alternate text for an image
+The style attribute is used to add styles to an element, such as color, font, size, and more
+The lang attribute of the <html> tag declares the language of the Web page
+The title attribute defines some extra information about an element
+
+Exercise:
+<a href="https://www.w3schools.com">This is a link</a>
+<img src="w3schools.jpg" width="" height="">
+<a href="https://www.w3schools.com">This is a link</a>
+<img src="w3schools.png" ="w3schools Logo">
+
+
+Chap heading.
+
+H1 to h6 h1 defines the most important heading.
+브라우저는 헤딩택뒤에 자동으로 공백둠.(마진)
+
+Skim 훑다. 걷어내다(스키마) over surface~~
+omit o mittere 제외 생략
+
+텍스트를 크게하거나, 볼드체를 만드는 용으로 쓰지는 말것.
+
+<h1 sytle="font-size:60px;">Heading 1</h1>
+디폴트 사이즈 말고 스타일 속성으로 설정 가능
+
+ 
+Exercise:
+<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+
+Chap paragraphs
+
+Always start on a new line .. 
+
+<Html display
+
+With HTML, you cannot change the display by adding extra spaces or extra lines in your HTML code.
+
+The browser will automatically remove any extra spaces and lines when the page is displayed:
+
+반응형 웹~
+
+
