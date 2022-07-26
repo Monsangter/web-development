@@ -1,0 +1,6 @@
+Src = https://www.udemy.com/course/linux-command-line-colt/learn/lecture/30360870?components=add_to_cart%2Cavailable_coupons%2Cbuy_button%2Cbuy_for_team%2Ccacheable_buy_button%2Ccacheable_deal_badge%2Ccacheable_discount_expiration%2Ccacheable_price_text%2Ccacheable_purchase_text%2Ccurated_for_ufb_notice_context%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Cincentives%2Cinstructor_links%2Clifetime_access_context%2Cmoney_back_guarantee%2Cprice_text%2Cpurchase_tabs_context%2Cpurchase%2Crecommendation%2Credeem_coupon%2Csidebar_container%2Cpurchase_body_container#overview
+
+섹션 1 빠른코스 오리엔테이션
+
+커멘드라인이 배우기 어렵따는 편견이 잇는데 사실이아님.
+포기하지 말고 익혀 보세요. 파워 유저가돼 보세요. 참여를 많이 할 수 있어요.
