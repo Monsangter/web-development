@@ -1,0 +1,32 @@
+src = https://www.geeksforgeeks.org/introduction-to-java/
+
+write once run anywhere 
+
+-자바 전문 용어
+
+jvm위에서 실행된다.
+
+javac에 의해 컴파일 된다. jdk안에 있는. 그리고 .class 파일로 저장되는 바이트코드를 산출물로 내놓는다. 그리고 jvmㅣㅇ 그걸 실행한다.
+
+jvm은 각 아키텍쳐마다 다르지만 결과물은 같다.
+바이트 코드를 다시 보기위해 디어셈블러 javap사용가능
+
+jdk는 are, ivc, docs, 디버거 등을 포함한다.
+
+java program to run, however, we cannot compile it. JRE includes a browser, JVM, applet supports, and plugins. For running the java program, a computer needs JRE.
+
+자바 프로그래머는 객체를 지울 수 없다. 대신 가비지 컬렉터라는게 있다. 오래 사용안된 메모리들을 회수하는 역할을하는데 참조된적이 많으면 회수 못함. 
+
+디폴트로는 외부 라이브러리 포함을 위해 클래스 경로에 추가해야함. 이 경로는 적재할 닷클래스파일을 런타임과 클래스가 찾는 곳임.
+
+-2 자바 주요중요기능
+
+플랫폼 독립적.
+
+객체지향적. 추상화, 캡슐화, 상속화, 다각화. 프로그램은 객체의 모임이라 할 수 있음.
+
+간단. 포인터 연산자 오버로딩, 다중상속, 외부메모리 할당이 없음.
+
+폭발적. 다른 언어는 잡아내지 못하는 에러들을 빠른 시간내에 감지해냄. 가비지컬렉션. 예외처리 메모리할당.
+
+보안성. 경계를 벗어나는 배열에 대한 접근이 차단되기 때문에 오히려 보안에 대한 걱정을 할 필요가 없음.

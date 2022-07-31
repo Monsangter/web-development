@@ -1,0 +1,25 @@
+src = https://www.geeksforgeeks.org/issues-in-computer-design/
+
+Computer Design is the structure in which components relate to each other. The designer deals with a particular level of system at a time and there are different types of issues at different levels. At each level, the designer is concerned with the structure and function. The structure is the skeleton of the various components related to each other for communication. The function is the activities involved in the system. 
+
+Following are the issues in computer design: 
+ 
+
+Assumption of infinite speed: 
+It can’t be assumed the infinite speed of the computer as it is not practical to assume the infinite speed. It creates problems in designers’ thinking as well.
+Assumption of infinite Memory: 
+Like the speed of the computer, memory also can’t be assumed infinite. Storage is always finite and this is an issue in computer design.
+Speed mismatch between memory and processor: 
+Sometimes it is possible that the speed of memory and processor does not match. It may be memory speed is faster or processor speed is faster. A mismatch between memory and processor leads to create problems in designing.
+Handling of bugs and errors: 
+Handling bugs and errors are huge responsibility of any computer designer. Bugs and errors lead to the failure of the computer system. Sometimes these errors may be more dangerous.
+Multiple processors: 
+Designing a computer system with multiple processors leads to the huge task of management and programming. It is a big issue in computer design.
+Multiple threads: 
+A computer system with multiple threads is always a threat to the designer. A computer with several threads should be able to multi-tasking and multi-processing.
+Shared memory: 
+If there are several processes to be executed at a time then all the processes share the same memory space. It should be managed in a specific way so that collision does not happen.
+Disk access: 
+Disk management is the key to computer design. There are several issues with disk access. It may be possible that the system does not support multiple disk access.
+Better performance: 
+It is always an issue. A designer always tries to simplify the system for better performance in reducing power and less cost.

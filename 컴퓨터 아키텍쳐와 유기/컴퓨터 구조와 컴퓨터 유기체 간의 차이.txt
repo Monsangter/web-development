@@ -1,0 +1,40 @@
+src = https://www.geeksforgeeks.org/differences-between-computer-architecture-and-computer-organization/
+
+Computer Architecture is a functional description of requirements and design implementation for the various parts of a computer. It deals with the functional behavior of computer systems. It comes before the computer organization while designing a computer. 
+
+Architecture describes what the computer does.
+
+
+
+Computer Organization comes after the decision of Computer Architecture first. Computer Organization is how operational attributes are linked together and contribute to realizing the architectural specification. Computer Organization deals with a structural relationship. 
+
+The organization describes how it does it.
+
+Difference between Computer Architecture and Computer Organization: 
+
+S. No.	Computer Architecture	Computer Organization
+1.	Architecture describes what the computer does.	The Organization describes how it does it.
+2.	Computer Architecture deals with the functional behavior of computer systems.	Computer Organization deals with a structural relationship.
+3.	In the above figure, it’s clear that it deals with high-level design issues.	In the above figure, it’s also clear that it deals with low-level design issues.
+4.	Architecture indicates its hardware.	Where Organization indicates its performance.
+5.	As a programmer, you can view architecture as a series of instructions, addressing modes, and registers.	The implementation of the architecture is called organization.
+6.	For designing a computer, its architecture is fixed first.	For designing a computer, an organization is decided after its architecture.
+7.	Computer Architecture is also called Instruction Set Architecture (ISA).	Computer Organization is frequently called microarchitecture.
+8.	Computer Architecture comprises logical functions such as instruction sets, registers, data types, and addressing modes.	Computer Organization consists of physical units like circuit designs, peripherals, and adders.
+9.	
+The different architectural categories found in our computer systems are as follows:
+
+Von-Neumann Architecture
+Harvard Architecture
+Instruction Set Architecture
+Micro-architecture
+System Design
+CPU organization is classified into three categories based on the number of address fields:
+
+Organization of a single Accumulator.
+Organization of general registers
+Stack organization
+10.	It makes the computer’s hardware visible.	It offers details on how well the computer performs.
+11.	Architecture coordinates the hardware and software of the system.	Computer Organization handles the segments of the network in a system.
+12.	The software developer is aware of it.	It escapes the software programmer’s detection.
+13.	Examples- Intel and AMD created the x86 processor. Sun Microsystems and others created the SPARC processor. Apple, IBM, and Motorola created the PowerPC.	Organizational qualities include hardware elements that are invisible to the programmer, such as interfacing of computer and peripherals, memory technologies, and control signals.

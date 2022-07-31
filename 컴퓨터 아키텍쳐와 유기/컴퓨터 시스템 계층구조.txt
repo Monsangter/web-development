@@ -1,0 +1,23 @@
+src = https://www.geeksforgeeks.org/computer-system-level-hierarchy/
+
+Computer System Level Hierarchy is the combination of different levels that connects the computer with the user and that makes the use of the computer. It also describes how the computational activities are performed on the computer and it shows all the elements used in different levels of system. 
+
+Computer System Level Hierarchy consists of seven levels: 
+ 
+
+
+
+Level-0: 
+It is related to digital logic. Digital logic is the basis for digital computing and provides a fundamental understanding of how circuits and hardware communicate within a computer. It consists of various circuits and gates etc. 
+Level-1: 
+This level is related to control. Control is the level where microcode is used in the system. Control units are included in this level of the computer system. 
+Level-2: 
+This level consists of machines. Different types of hardware are used in the computer system to perform different types of activities. It contains instruction set architecture. 
+Level-3: 
+System software is a part of this level. System software is of various types. System software mainly helps in operating the process and it establishes the connection between hardware and user interface. It may consist operating system, library code, etc. 
+Level-4: 
+Assembly language is the next level of the computer system. The machine understands only the assembly language and hence in order, all the high-level languages are changed in the assembly language. Assembly code is written for it. 
+Level-5: 
+This level of the system contains high-level language. High-level language consists of C++, Java, FORTRAN, and many other languages. This is the language in which the user gives the command. 
+Level-6: 
+This the last level of the computer system hierarchy. This consists of users and executable programs. 
