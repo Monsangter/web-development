@@ -1,0 +1,156 @@
+1.let 변수 선언.
+var은 변수 재선언시 에러가 나오지 않고 다른 값이 덮어 씌워진다.
+let은 let으로 재선언하는건 불가능하고. 해당 변수에 다른 값을 씌우는 것만 가능하다. 
+
+let name = 'bathingape'
+    console.log(name) 
+let name = 'javascript'
+    console.log(name) 
+    // Uncaught SyntaxError: Identifier 'name' has already been declared
+name = 'react'
+
+const는 변수 재선언, 변수 재할당 모두 불가능하다.
+
+
+2. 게터 세터
+
+객체지향 프로그래밍에서 객체의 데이터는 외부에서 직접 접근하는 것을 막는다.
+외부에서 읽고 변경이 가능하다면 객체 무결성이 깨질 수 있기 때문이다.
+따라서 메소드를 통해 데이터를 변경하는데 이떄 사용하는 메소드가 게터와 세터이다.
+
+매개값을 검증해 유효한 값만 데이터로 저장한다 setter
+
+객체외부에서 객체 필드값을 사용하기 부적절한 경우, 메소드로 필드 값을 가공후 외부로 전달한다. getter
+
+클래스 선언시 가능하다면 필드를 프라이빗으로 선언해서 외부로부터 보호하고, 필드에 대한 겟세터 메소드를 작성, 필드값을 안전히 변경 사용하는 것이 좋다.
+
+
+객체의 속성으로는 두가지종류가 있다.
+
+데이터 속성
+
+접근자 속성
+
+데이터 속성 은 객체안의 키밸류 형태의 속성이다. 
+
+let obj = {
+ firstName: 'sy',
+ lastName: 'k',
+ age: 12,
+}
+
+접근자 속성은 함수처럼 생겼지만 객체 값을 얻고(get) 설정하는 역할(set)을 한다.
+
+3. private 캡슐화.
+private 로 선언시 외부에서는 보이지 않는다.
+
+4. 인트스트림 
+
+5. 스트림 
+
+Stream은 자바 8부터 추가된 기능으로 "컬렉션, 배열등의 저장 요소를 하나씩 참조하며 함수형 인터페이스(람다식)를 적용하며 반복적으로 처리할 수 있도록 해주는 기능"이다. (InputStream, OutputStream같은 I/O Stream이 아니다.)
+출처: https://jeong-pro.tistory.com/165 [기본기를 쌓는 정아마추어 코딩블로그:티스토리]
+
+스트림은 '데이터의 흐름’입니다. 배열 또는 컬렉션 인스턴스에 함수 여러 개를 조합해서 원하는 결과를 필터링하고 가공된 결과를 얻을 수 있습니다. 또한 람다를 이용해서 코드의 양을 줄이고 간결하게 표현할 수 있습니다. 즉, 배열과 컬렉션을 함수형으로 처리할 수 있습니다.
+
+또 하나의 장점은 간단하게 병렬처리(multi-threading)가 가능하다는 점입니다. 하나의 작업을 둘 이상의 작업으로 잘게 나눠서 동시에 진행하는 것을 병렬 처리(parallel processing)라고 합니다. 즉 쓰레드를 이용해 많은 요소들을 빠르게 처리할 수 있습니다.
+
+스트림에 대한 내용은 크게 세 가지로 나눌 수 있습니다.
+
+생성하기 : 스트림 인스턴스 생성.
+가공하기 : 필터링(filtering) 및 맵핑(mapping) 등 원하는 결과를 만들어가는 중간 작업(intermediate operations).
+결과 만들기 : 최종적으로 결과를 만들어내는 작업(terminal operations).
+
+https://futurecreator.github.io/2018/08/26/java-8-streams/
+
+List<String> names = Arrays.asList("jeong", "pro", "jdk", "java");
+// 기존의 코딩 방식
+long count = 0;
+for (String name : names) {    
+	if (name.contains("o")) {        
+		count++;
+    }
+}
+System.out.println("Count : " + count); 
+// 2 // 스트림 이용한 방식
+count = 0;
+count = names.stream().filter(x > x.contains("o")).count();
+System.out.println("Count : " + count); // 2
+출처: https://jeong-pro.tistory.com/165 [기본기를 쌓는 정아마추어 코딩블로그:티스토리]
+
+불필요한 반복 제어문 사용을 줄이고 가독성을 올린다.
+
+6. for (Object obj : files) 포문 콜론.
+
+b에서 더 꺼낼 객체가 없을때까지 꺼내 넣겠다.
+
+7.제네릭스
+
+8.컬렉션이란
+데이터의 집합, 그룹을 의미한다.
+
+jcf(자바 컬렉션 프레임 워크) 는 이런 데이터, 자료구조인 컬렉션과 이를 구현하는 클래스를 정의하는 인터페이스를 제공한다.
+
+	- Set 인터페이스
+
+순서를 유지하지 않는 데이터의 집합으로 데이터의 중복을 허용하지 않는다.
+
+HashSet
+- 가장빠른 임의 접근 속도
+- 순서를 예측할 수 없음
+
+TreeSet
+- 정렬방법을 지정할 수 있음
+
+	- List 인터페이스
+
+순서가 있는 데이터의 집합으로 데이터의 중복을 허용한다.
+
+LinkedList
+- 양방향 포인터 구조로 데이터의 삽입, 삭제가 빈번할 경우 데이터의 위치정보만 수정하면 되기에 유용
+- 스택, 큐, 양방향 큐 등을 만들기 위한 용도로 쓰임
+
+Vector
+- 과거에 대용량 처리를 위해 사용했으며, 내부에서 자동으로 동기화처리가 일어나 비교적 성능이 좋지 않고 무거워 잘 쓰이지 않음
+
+ArrayList
+- 단방향 포인터 구조로 각 데이터에 대한 인덱스를 가지고 있어 조회 기능에 성능이 뛰어남
+
+	- Map 인터페이스
+
+키(Key), 값(Value)의 쌍으로 이루어진 데이터으 집합으로,
+순서는 유지되지 않으며 키(Key)의 중복을 허용하지 않으나 값(Value)의 중복은 허용한다.
+
+Hashtable
+- HashMap보다는 느리지만 동기화 지원
+- null불가
+
+HashMap
+- 중복과 순서가 허용되지 않으며 null값이 올 수 있다.
+
+TreeMap
+- 정렬된 순서대로 키(Key)와 값(Value)을 저장하여 검색이 빠름
+
+9. String 의 static 메서드인 format 메서드는 문자열의 형식을 설정하는 메서드입니다.
+
+
+
+%d (10진수 형식)
+%s (문자열 형식)
+%f (실수형 형식)
+Locale 설정
+%t (날짜시간 형식)
+%c (유니코드 문자 형식)
+%o, %x(8진수, 16진수 형식)
+출처: https://blog.jiniworld.me/68 [hello jiniworld:티스토리]
+
+10 or 연산자 ||
+
+11.
+java.util 패키지 #
+Java의 java.util 패키지(Package)는 Java 프로그래밍에 유용한 클래스들을 모아둔 것으로 대표적인 클래스로는 날짜와 관련된 Date, Calendar 가 있으며, 자료구조와 관련된 Collection 프레임워크 관련 클래스들이 포함되어 있다.
+
+12. static
+static - 메소드에 static 키워드가 붙을 경우 이 메소드는 클래스 메소드가 되어 객체를 만들지 않아도 "클래스명.메소드명" 형태로 호출이 가능하다.
+void - 메소드의 리턴타입 중 하나로 void는 리턴값이 없음을 의미한다.
+String[] args - 메소드의 매개 변수이다. args 변수는 String[] 배열 자료형임을 의미한다. args라는 이름은 인수를 의미하는 arguments의 약어로 관례적인 이름이다. args 대신 다른 이름을 사용해도 상관없다

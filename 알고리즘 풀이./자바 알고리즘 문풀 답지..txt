@@ -1,0 +1,29 @@
+자바 알고리즘.\
+
+q1.
+
+   import java.util.stream.IntStream;
+    public static void main(String[] args) {
+        System.out.println(String.format("정답: %d", foo(1000)));
+    }
+
+    private static int foo(int end) {
+        return IntStream.range(1, end).filter(j -> j%3==0 || j%5==0).sum();
+    }
+
+---------------------
+
+public static int Print(int Max)
+        {
+            int sums = 0;
+
+            for (int i = 1; i < Max; i++)
+            {
+                if (i % 3 == 0 || i % 5 == 0)
+                {
+                    sums += i;
+                }
+            }
+
+            return sums;
+        } 
